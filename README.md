@@ -230,3 +230,26 @@ Example markdown:
 ## Conclusion
 
 JIHC Tea Room is a practical Flutter + Firebase project designed to improve dormitory tea room management through authentication, cloud data storage, and real-time booking workflows. The project demonstrates the use of modern mobile development tools and provides a strong foundation for future expansion in a university environment.
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot1](Screenshot%202026-05-29%20at%2011.28.22.png)
+
+### Screenshot 2
+![Screenshot2](Screenshot%202026-05-29%20at%2011.28.57.png)
+
+### Screenshot 3
+![Screenshot3](Screenshot%202026-05-29%20at%2011.29.09.png)
+
+### Screenshot 4
+![Screenshot4](Screenshot%202026-05-29%20at%2011.29.20.png)
+
+### Screenshot 5
+![Screenshot5](Screenshot%202026-05-29%20at%2011.29.39.png)
+
+### Screenshot 6
+![Screenshot6](Screenshot%202026-05-29%20at%2011.29.45.png)
+
+### Screenshot 7
+![Screenshot7](Screenshot%202026-05-29%20at%2011.29.48.png)
