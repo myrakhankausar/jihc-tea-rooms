@@ -192,29 +192,6 @@ lib/
   firebase_options.dart
 ```
 
-## Screenshots
-
-Add screenshots of the application here before final submission.
-
-Suggested screenshots:
-
-- Splash Screen
-- Login Screen
-- Register Screen
-- Gender Selection Screen
-- Home Screen
-- Create Booking Screen
-- My Bookings Screen
-- Profile Screen
-- Admin Bookings Screen
-
-Example markdown:
-
-```md
-![Login Screen](screenshots/login.png)
-![Home Screen](screenshots/home.png)
-![Profile Screen](screenshots/profile.png)
-```
 
 ## Future Improvements
 
@@ -230,6 +207,10 @@ Example markdown:
 ## Conclusion
 
 JIHC Tea Room is a practical Flutter + Firebase project designed to improve dormitory tea room management through authentication, cloud data storage, and real-time booking workflows. The project demonstrates the use of modern mobile development tools and provides a strong foundation for future expansion in a university environment.
+
+## Author
+
+Kausar Myrzakhan
 
 ## Screenshots
 
