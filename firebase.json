@@ -1,0 +1,44 @@
+{
+  "firestore": {
+    "rules": "firebase.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "jihc-tea-rooms",
+          "appId": "1:852032423968:android:60a85031cda6b192de1445",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "jihc-tea-rooms",
+          "appId": "1:852032423968:ios:2a011f7f505250d5de1445",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "jihc-tea-rooms",
+          "appId": "1:852032423968:ios:2a011f7f505250d5de1445",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "jihc-tea-rooms",
+          "configurations": {
+            "android": "1:852032423968:android:60a85031cda6b192de1445",
+            "ios": "1:852032423968:ios:2a011f7f505250d5de1445",
+            "macos": "1:852032423968:ios:2a011f7f505250d5de1445",
+            "web": "1:852032423968:web:fad4444e1cb31adade1445",
+            "windows": "1:852032423968:web:fad4444e1cb31adade1445"
+          }
+        }
+      }
+    }
+  }
+}

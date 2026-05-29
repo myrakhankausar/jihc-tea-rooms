@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "852032423968",
+    "project_id": "jihc-tea-rooms",
+    "storage_bucket": "jihc-tea-rooms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852032423968:android:60a85031cda6b192de1445",
+        "android_client_info": {
+          "package_name": "com.kausar.jihctearooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852032423968-iiuec7773ughioua724dhpbdad6fhbks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdicu2UsQRldzhEY7J1nAmaofZB3Gg2KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852032423968-iiuec7773ughioua724dhpbdad6fhbks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852032423968-d4pbj3ooemqi5vshntroqtr15sig18rp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kausar.jihcTeaRoom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
