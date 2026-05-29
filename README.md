@@ -210,7 +210,8 @@ JIHC Tea Room is a practical Flutter + Firebase project designed to improve dorm
 
 ## Author
 
-Kausar Myrzakhan
+Name: Kausar Myrzakhan
+Student id: 090708650972
 
 ## Screenshots
 
